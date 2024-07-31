@@ -1,5 +1,9 @@
 # Forecasting Traffic Progression in Terms of Semantically Interpretable States by Exploring Multiple Data Representations
-[Michiel Dhont](https://orcid.org/0000-0002-5679-0991), [Adrian Munteanu](https://orcid.org/0000-0001-7290-0428), [Elena Tsiporkova](https://orcid.org/0009-0003-7202-3471)
+[Michiel Dhont](https://orcid.org/0000-0002-5679-0991)<sup>1,2</sup>, [Adrian Munteanu](https://orcid.org/0000-0001-7290-0428)<sup>2</sup>, and [Elena Tsiporkova](https://orcid.org/0009-0003-7202-3471)<sup>1</sup>
+
+<sup>1</sup> EluciDATA Lab of Sirris, Bd A. Reyerslaan 80, 1030 Brussels, Belgium
+
+<sup>2</sup> Department of Electronics and Information Processing (ETRO), VUB, Belgium
 
 In this repository, some supportive material for the article "Forecasting Traffic Progression in Terms of Semantically Interpretable States by Exploring Multiple Data Representations" is given. Once the article is accepted and published, a direct link to the article will be provided here.
 
